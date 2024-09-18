@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gestion/static/css/main.5b92b6b3.css",
+    "main.js": "/Gestion/static/js/main.8d8f0562.js",
+    "index.html": "/Gestion/index.html",
+    "main.5b92b6b3.css.map": "/Gestion/static/css/main.5b92b6b3.css.map",
+    "main.8d8f0562.js.map": "/Gestion/static/js/main.8d8f0562.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b92b6b3.css",
+    "static/js/main.8d8f0562.js"
+  ]
+}
